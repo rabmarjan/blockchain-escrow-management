@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.9)
-project(escrow-management)
+project(escrow)
 
 #Bring the headers, such as Student.h into the project
 include_directories(include)
