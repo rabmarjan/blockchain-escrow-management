@@ -5,4 +5,4 @@ Blockchain escrow Management
 Go to the directory where CMakeLists.txt file located then run
 
 # cmake . 
-# ./escrow
+# ./escrow_management
